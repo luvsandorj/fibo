@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={monkey} className="App-logo" alt="logo" />
         <p>
-          Жижигхэн сармагчин
+          Жижигхэн
         </p>
         
       </header>
